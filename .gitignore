@@ -1,0 +1,6 @@
+#comment 
+#first_one -> here first_one will not be ignored
+*.txt
+!first_directory/1.txt
+*.gz
+*.zip
