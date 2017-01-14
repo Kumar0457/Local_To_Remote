@@ -4,6 +4,5 @@ This is line added and will be removed when the changes are undone from staging 
 Changed in master.
 Added by shorten_title branch.
 Trying to edit by master.
-C:wq
 Common file to be edited by both the branches i.e. master and shorten_title.
 
